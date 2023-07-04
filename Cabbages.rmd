@@ -64,4 +64,4 @@ t.test(VitC~Cult,data=veggy)
 ```
 # Discussion and Conclusion
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-I reject the null hypothesis due to how small the p value was (null hypothesis = there is no relationship between two data sets and results are by chance alone ) and conclude that cultivation methods do affect vitamin c levels of cabbages.
+I reject the null hypothesis due to how small the p value was (null hypothesis = there is no relationship between two data sets and results are by chance alone ) and conclude that cultivation methods do affect vitamin c levels of cabbages. c52 was found to produce higher vitamin c level in cabbages so that is the cultivation method i would recommend.
