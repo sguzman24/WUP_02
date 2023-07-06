@@ -44,6 +44,7 @@ The response variable (how much vitamin c) is numerical; the input variable is c
 ```{r}
 plot(VitC~Cult,data=veggy)
 ```
+   
    This graph shows that c52 had higher vitamin c levels then c39
    
    
